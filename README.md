@@ -1,4 +1,4 @@
-# Codemotion Workshop
+# Codemotion Workshop (Pablo)
 
 ## Requirements
 * Github account
